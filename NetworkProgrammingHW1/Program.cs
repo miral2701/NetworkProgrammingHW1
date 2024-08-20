@@ -52,6 +52,7 @@ namespace NetworkProgrammingHW1
                         res = "Курс долара к евро-> 1:09";
 
                     }
+
                     else if (message.ToString() == "EURO USD")
                     {
                         res = "Курс евро к долару-> 1:1.11 ";
